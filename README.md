@@ -1,5 +1,2 @@
 # beller-lab-24
-# by alejandro soto franco
-# grad student supervisor: brandon klein
-
-# simulating braiding dynamics of topological defects in confined active nematics
+fsn_solver parameter sweeps and scripts used in various cusp scenarios.
